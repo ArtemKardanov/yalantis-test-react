@@ -1,0 +1,14 @@
+.wrapper {
+    width: 40%;
+}
+
+.empList {
+    background-color: lightblue;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 5px;
+    margin: 0;
+    border: solid 1px red;
+}
